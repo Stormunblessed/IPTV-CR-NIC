@@ -1,0 +1,127 @@
+#EXTM3U
+ 
+ #EXTINF:-1, Locomotion
+http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+
+#EXTINF:-1, Canal 2
+https://cootv.cootel.com.ni/streams/d/SSLCH02-SD-YLC/playlist.m3u8
+
+#EXTINF:-1, Canal 4
+https://cootv.cootel.com.ni/streams/d/SSLCH04-SD-LHQ/playlist.m3u8
+
+#EXTINF:-1, Canal 6
+https://cootv.cootel.com.ni/streams/d/SSLCH06-HD-RNJ/playlist.m3u8
+
+#EXTINF:-1, Canal 8
+https://cootv.cootel.com.ni:443/streams/d/SSLCH08-SD-TDF/playlist.m3u8
+
+#EXTINF:-1, Canal 9
+https://cootv.cootel.com.ni/streams/d/SSLCH09-HD-CVS/playlist.m3u8
+
+ #EXTINF:-1, Canal 10
+https://cootv.cootel.com.ni/streams/d/SSLCH10-SD-ZUK/playlist.m3u8
+
+#EXTINF:-1, Canal 11
+https://cootv.cootel.com.ni/streams/d/SSLCH11-SD-GZN/playlist.m3u8
+
+#EXTINF:-1, Canal 12
+https://cootv.cootel.com.ni/streams/d/SSLCH12-SD-ILL/playlist.m3u8
+
+#EXTINF:-1, Canal 13
+https://cootv.cootel.com.ni/streams/d/SSLCH13-SD-PYU/playlist.m3u8
+
+#EXTINF:-1, Canal 15
+https://cootv.cootel.com.ni/streams/d/SSLCH15-SD-SDJ/playlist.m3u8
+
+#EXTINF:-1, Canal 23
+https://cootv.cootel.com.ni/streams/d/SSLCH23-SD-CIY/playlist.m3u8
+
+#EXTINF:-1, Ticavision
+http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
+
+#EXTINF:-1, Teletica 1080p
+https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53TiLE7K3rbPb97ILOqSQNs)/dm/3/x29e3wg/d/live-4.m3u8
+
+#EXTINF:-1, Multimedios
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+
+#EXTINF:-1, Canal UCR 1080p
+http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+
+#EXTINF:-1, Repretel 6
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MDE2MDc1LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiODIwMDRlYzdmMTljODE2MTAwNmVmNWZlYjdiYTg5OTY5NmRiODQxNSJ9
+
+#EXTINF:-1, Repretel 4
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MDE2MTY3LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiYWMyYmUwN2M0OTE2M2Q5ZTRjZDYwY2UxZWU0ZmM1MTJlMjYwYjVkOSJ9
+
+#EXTINF:-1, Repretel 2
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MDE2MjA0LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiMmIzOWE2OGY2YWI0NGUxZmM3ZmIyNjMyMzBkMmY0YzRmOGFhNWFlMyJ9
+
+#EXTINF:-1, Repretel 11
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MDE2MTQ5LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiMzhlMTU3OTNlZWI5ZDc3ZWY3Njg4NmMxNWNhYmVhNzRjYzg0OTUzOSJ9
+
+#EXTINF:-1, Cristovision
+https://5fa5de1a545ae.streamlock.net/CRISTOVISION31/CRISTOVISION31/chunklist_w1195361910.m3u8
+
+#EXTINF:-1, Enlace NIC
+https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
+
+#EXTINF:-1, San Jose TV
+https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
+
+#EXTINF:-1, Telefides
+http://190.0.226.17:1935/Telefides/livestream/chunklist_w592017917.m3u8
+
+#EXTINF:-1, SMO TV
+http://186.15.50.30:8080/hls/smotv.m3u8
+
+#EXTINF:-1, Anexion TV
+http://rtmp.info:8081/anexiontv/envivo/chunklist_w506233955.m3u8
+
+#EXTINF:-1, Trece CR
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYOWNToOCadopiJnPyz-ujU)/dm/3/x7vh8g3/d/live-3.m3u8
+
+#EXTINF:-1, 36 Limon
+https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1453814195.m3u8
+
+#EXTINF:-1, Colosal TV
+https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1023493580.m3u8
+
+#EXTINF:-1, TV UNO
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w685058481.m3u8
+
+#EXTINF:-1, Telesur
+http://k3.usastreams.com/telesur/telesur/chunklist_w929248362.m3u8
+
+#EXTINF:-1, JBN Canal 39
+https://inliveserver.com:1936/17520/17520/chunklist_w1860509812.m3u8
+
+#EXTINF:-1, TV One
+https://inliveserver.com:1936/17512/17512/chunklist_w341718438.m3u8
+
+#EXTINF:-1, EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
+
+#EXTINF:-1, Supreme Master TV
+https://cf-lbs.suprememastertv.com/origin/720p/playlist.m3u8
+
+#EXTINF:-1, Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w969400546.m3u8
+
+#EXTINF:-1, San Vito TV
+http://k4.usastreams.com/vitotv/vitotv/chunklist_w632191368.m3u8
+
+#EXTINF:-1,TVsur
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1867933475.m3u8
+
+#EXTINF:-1, La rock 22
+https://cootv.cootel.com.ni/streams/d/SSLCH22-SD-VJA/playlist.m3u8
+
+#EXTINF:-1, Esperanza TV
+http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
+
+
+
+
+
+
