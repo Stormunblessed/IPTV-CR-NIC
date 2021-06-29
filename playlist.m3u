@@ -27,10 +27,12 @@ https://cootv.cootel.com.ni/streams/d/SSLCH23-SD-CIY/playlist.m3u8
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1, Teletica 1080p
 https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53TiLE7K3rbPb97ILOqSQNs)/dm/3/x29e3wg/d/live-4.m3u8
+#EXTINF:-1, Teletica 720p
+https://stream-02.ix7.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53TiLE7K3rbPb97ILOqSQNs)/dm/3/x29e3wg/d/live-3.m3u8
 #EXTINF:-1, Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1, Canal UCR 1080p
-http://163.178.170.181:1935/envivo/envivo/playlist.m3u8
+#EXTINF:-1, Canal UCR
+http://163.178.170.127:1935/quinceucr/live.stream_720p/chunklist_w1076077828.m3u8
 #EXTINF:-1, Repretel 6
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MDE2MDc1LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiODIwMDRlYzdmMTljODE2MTAwNmVmNWZlYjdiYTg5OTY5NmRiODQxNSJ9
 #EXTINF:-1, Repretel 4
