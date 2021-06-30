@@ -34,7 +34,7 @@ https://dailymotionlive.akamaized.net/sec(SyZYkGipT6ryQqDrbZs7JU7Tnom_ppVjWrWzxX
 #EXTINF:-1, Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1, Canal UCR
-http://163.178.170.127:1935/quinceucr/live.stream_720p/chunklist_w1076077828.m3u8
+http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
 #EXTINF:-1, Repretel 6
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MTYzODQ3LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiM2UzZjk5NjAwNTEyN2UxZWI3YjA0MjJkYzA4ZmMyNGY0OWQzNTQ2MyJ9
 #EXTINF:-1, Repretel 4
@@ -44,7 +44,7 @@ https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlis
 #EXTINF:-1, Repretel 11
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MTY1MTc1LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiNzRmZTZjOGM2ZTlmNjZkZWQyZDU2NGNiODlkN2NlMzU2ZjJiY2YxZSJ9
 #EXTINF:-1, Cristovision
-https://5fa5de1a545ae.streamlock.net/CRISTOVISION31/CRISTOVISION31/chunklist_w1195361910.m3u8
+https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b750000.m3u8
 #EXTINF:-1, Enlace NIC
 https://11554-1.b.cdn13.com/LiveHTTPOrigin/live/chunklist.m3u8
 #EXTINF:-1, San Jose TV
