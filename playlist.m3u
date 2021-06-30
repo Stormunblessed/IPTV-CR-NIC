@@ -29,6 +29,8 @@ http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53TiLE7K3rbPb97ILOqSQNs)/dm/3/x29e3wg/d/live-4.m3u8
 #EXTINF:-1, Teletica 720p
 https://stream-02.ix7.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53TiLE7K3rbPb97ILOqSQNs)/dm/3/x29e3wg/d/live-3.m3u8
+#EXTINF:-1, Xpertv
+https://dailymotionlive.akamaized.net/sec(SyZYkGipT6ryQqDrbZs7JU7Tnom_ppVjWrWzxX_pv7M)/dm/3/x2hfbst/s/live-3.m3u8
 #EXTINF:-1, Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1, Canal UCR
