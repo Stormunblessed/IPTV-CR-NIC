@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1, Locomotion
-http://locomotiontv.com/envivo/loco_ch/stream.m3u8
+http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1, Canal 2
 https://cootv.cootel.com.ni/streams/d/SSLCH02-SD-YLC/playlist.m3u8
 #EXTINF:-1, Canal 4
