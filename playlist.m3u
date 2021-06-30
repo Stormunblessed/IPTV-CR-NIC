@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ac/Locomotion_logo.svg/revision/latest/scale-to-width-down/175?cb=20200125124336&path-prefix=es", Locomotion
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1, Canal 2
 https://cootv.cootel.com.ni/streams/d/SSLCH02-SD-YLC/playlist.m3u8
