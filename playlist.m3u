@@ -35,13 +35,13 @@ https://dailymotionlive.akamaized.net/sec(SyZYkGipT6ryQqDrbZs7JU7Tnom_ppVjWrWzxX
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1, Canal UCR
 http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
-#EXTINF:-1, Repretel 6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Repretel_6_logo.png", Repretel 6
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MTYzODQ3LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiM2UzZjk5NjAwNTEyN2UxZWI3YjA0MjJkYzA4ZmMyNGY0OWQzNTQ2MyJ9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4
 https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MTY1NTM2LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiMzBjMzNkYjA3MGViYjY5ZTRiMDIyY2UzM2NhZjc5MGFkZTQ2NjJhOCJ9
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2
 https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MTY1NjEwLCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiZDZlNWIxMmYyOTk3OTU5YjRhYzgwODVhMDgzNDMxZDMzMTkwYmFiYiJ9
-#EXTINF:-1, Repretel 11
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/Repretel_11_actual.png", Repretel 11
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MTY1MTc1LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiNzRmZTZjOGM2ZTlmNjZkZWQyZDU2NGNiODlkN2NlMzU2ZjJiY2YxZSJ9
 #EXTINF:-1, Cristovision
 https://liveingesta118.cdnmedia.tv/cristovisionlive/smil:live.smil/chunklist_b750000.m3u8
