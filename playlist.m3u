@@ -5,7 +5,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 https://cootv.cootel.com.ni/streams/d/SSLCH02-SD-YLC/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgWGymmVui_jxthlTHvhmdkh1ZBR_KS3_h_5sk9w=s88-c-k-c0x00ffffff-no-rj", Canal 4
 https://cootv.cootel.com.ni/streams/d/SSLCH04-SD-LHQ/playlist.m3u8
-#EXTINF:-1 tvg-logo="/logos/Cana6.png", Canal 6
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Cana6.png", Canal 6
 https://cootv.cootel.com.ni/streams/d/SSLCH06-HD-RNJ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png", Canal 8
 https://cootv.cootel.com.ni:443/streams/d/SSLCH08-SD-TDF/playlist.m3u8
