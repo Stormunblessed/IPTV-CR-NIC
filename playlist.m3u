@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2192948.png", RESOLUTION=640x360 Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
 https://cootv.cootel.com.ni/streams/d/SSLCH02-SD-YLC/playlist.m3u8
