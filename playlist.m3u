@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2192948.png" RESOLUTION=1920x1080, Locomotion
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="http://azxtv.com/aztv.png", Anime Zone TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
 https://cootv.cootel.com.ni/streams/d/SSLCH02-SD-YLC/playlist.m3u8
@@ -23,7 +23,7 @@ https://cootv.cootel.com.ni/streams/d/SSLCH12-SD-ILL/playlist.m3u8
 https://cootv.cootel.com.ni/streams/d/SSLCH13-SD-PYU/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal%2015.png", Canal 15
 https://cootv.cootel.com.ni/streams/d/SSLCH15-SD-SDJ/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal23.png" RESOLUTION=1920x1080, Canal 23
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal23.png", Canal 23
 https://cootv.cootel.com.ni/streams/d/SSLCH23-SD-CIY/playlist.m3u8
 #EXTINF:-1, Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
