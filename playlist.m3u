@@ -35,7 +35,7 @@ https://stream-02.ix7.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53TiLE7K3rbPb97ILO
 https://dailymotionlive.akamaized.net/sec(SyZYkGipT6ryQqDrbZs7JU7Tnom_ppVjWrWzxX_pv7M)/dm/3/x2hfbst/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1, Canal UCR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MTYzODQ3LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiM2UzZjk5NjAwNTEyN2UxZWI3YjA0MjJkYzA4ZmMyNGY0OWQzNTQ2MyJ9
