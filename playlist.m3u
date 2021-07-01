@@ -7,17 +7,17 @@ https://cootv.cootel.com.ni/streams/d/SSLCH02-SD-YLC/playlist.m3u8
 https://cootv.cootel.com.ni/streams/d/SSLCH04-SD-LHQ/playlist.m3u8
 #EXTINF:-1, Canal 6
 https://cootv.cootel.com.ni/streams/d/SSLCH06-HD-RNJ/playlist.m3u8
-#EXTINF:-1, Canal 8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png", Canal 8
 https://cootv.cootel.com.ni:443/streams/d/SSLCH08-SD-TDF/playlist.m3u8
 #EXTINF:-1, Canal 9
 https://cootv.cootel.com.ni/streams/d/SSLCH09-HD-CVS/playlist.m3u8
-#EXTINF:-1, Canal 10
+#EXTINF:-1 tvg-logo="https://www.canal10.com.ni/wp-content/themes/albavision-theme/img/logo.png", Canal 10
 https://cootv.cootel.com.ni/streams/d/SSLCH10-SD-ZUK/playlist.m3u8
 #EXTINF:-1, Canal 11
 https://cootv.cootel.com.ni/streams/d/SSLCH11-SD-GZN/playlist.m3u8
 #EXTINF:-1, Canal 12
 https://cootv.cootel.com.ni/streams/d/SSLCH12-SD-ILL/playlist.m3u8
-#EXTINF:-1, Canal 13
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png", Canal 13
 https://cootv.cootel.com.ni/streams/d/SSLCH13-SD-PYU/playlist.m3u8
 #EXTINF:-1, Canal 15
 https://cootv.cootel.com.ni/streams/d/SSLCH15-SD-SDJ/playlist.m3u8
