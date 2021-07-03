@@ -28,9 +28,9 @@ https://cootv.cootel.com.ni/streams/d/SSLCH23-SD-CIY/playlist.m3u8
 #EXTINF:-1, Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 1080p
-https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53TiLE7K3rbPb97ILOqSQNs)/dm/3/x29e3wg/d/live-4.m3u8
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO59AwM3B5MMUukmb0OB4nHKk)/dm/3/x29e3wg/d/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 720p
-https://stream-02.ix7.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53TiLE7K3rbPb97ILOqSQNs)/dm/3/x29e3wg/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO59AwM3B5MMUukmb0OB4nHKk)/dm/3/x29e3wg/d/live-3.m3u8
 #EXTINF:-1, Xpertv
 https://dailymotionlive.akamaized.net/sec(SyZYkGipT6ryQqDrbZs7JU7Tnom_ppVjWrWzxX_pv7M)/dm/3/x2hfbst/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
@@ -38,13 +38,13 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6
-https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MjcxOTM3LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiNjkxMjhmZGE5MTE0ODcwZGU1MDYyYWUwOGY3NzMxODBkYWMwYmE4NSJ9
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MzczMDQxLCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiOTM4MDNmYTJjZDc2YjYyNDcwMmI2YTEyN2M5MzkzMGI4ZTE3NWIzMSJ9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MjcxOTk3LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiZDYyNTVkMDAyOTc3Y2UxMDhjYjRhZjQwZmNiM2NjMGZjN2Y1NDMyZiJ9
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MzczMTQ5LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiYmU3OWRmZmY3YjI5NDAyZWRhZjQxZDczYTE0NzQ4MWVhYmExNzU2NyJ9
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2
-https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MjcyMDM3LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiNjQyOWM4ZGQ3MzM4OGY4N2JiYzI5M2EzNWViM2Q5MWRkZDcyMzEzMCJ9
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MzczMTgyLCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiYWEzNzUwMTE0MzEzMDNiNmEzMzU1NjRiZWQyZTJkNzMxZmVjZmZkNiJ9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MjcyMDg2LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiYmE4YTAzNzg5ZDdlZGZiZjllN2FiMDdlMDIzYTk2ZjQ0MjRjYTEwNCJ9
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI1MzczMTMwLCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMTA1Iiwid2hpdGVsaXN0IjpbIjE5MC4xMTMuMTAxLjEwNSJdfSwic2lnbmF0dXJlIjoiYjNlOWE0Njc2MDkzM2U2N2E2NGE3MWVjMzU5MDIzYTAzYzE4YTA4NyJ9
 #EXTINF:-1, San Jose TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
 #EXTINF:-1, Telefides
