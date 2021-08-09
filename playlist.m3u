@@ -35,8 +35,6 @@ https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO59SgpT_NyBVwU1bdJo
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
-#EXTINF:-1, TEST
-http://163.178.170.127:1935/quinceucr/live.stream_1080p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4NjIwNTg1LCJzZXNzaW9uIjoiMTkwLjExMy4xMDEuMzYiLCJ3aGl0ZWxpc3QiOlsiMTkwLjExMy4xMDEuMzYiXX0sInNpZ25hdHVyZSI6ImU1MTFjN2I0ZDM4YTZlZjdiNmE2NTk1YTUyNTJmODIxYzIyMGFlMmIifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4
