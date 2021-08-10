@@ -4,7 +4,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
-https://cootv.cootel.com.ni/streams/d/SSLCH02-SD-YLC/playlist.m3u8
+https://cootv.cootel.com.ni/streams/d/SSLCH02-HD-YON/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgWGymmVui_jxthlTHvhmdkh1ZBR_KS3_h_5sk9w=s88-c-k-c0x00ffffff-no-rj", Canal 4
 https://cootv.cootel.com.ni/streams/d/SSLCH04-SD-LHQ/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Cana6.png", Canal 6
