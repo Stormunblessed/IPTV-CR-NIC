@@ -36,13 +36,13 @@ http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6
-https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4ODI2MTA3LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjIiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjIiXX0sInNpZ25hdHVyZSI6IjI2MzE3MjZiNjdiNjYyMWY4ZDdlYzYyNDA1NmM5NTAxYWEwODM2NTUifQ%3D%3D
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4OTk1NzAyLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjIiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjIiXX0sInNpZ25hdHVyZSI6IjY3YTFkM2UzMTc2MjFjODE4MzEzMjE0YTE2Y2Q1Mzk2ZDBlNmQ3MzIifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4ODI2Mjc5LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjIiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjIiXX0sInNpZ25hdHVyZSI6IjVkYzNlZmQ4ZDFhYWM5MTgzNmMzNmE2NjAxNWY1M2I5ZTM1YWNhMjIifQ%3D%3D
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2
-https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4ODI2MzEwLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjIiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjIiXX0sInNpZ25hdHVyZSI6ImM2MjZhZmNkNTYyYTYwMzdmYjJhNGY5MmMwMWQ0NzdjMTYyMzg4YmEifQ%3D%3D
+https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4OTk1NzY5LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjIiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjIiXX0sInNpZ25hdHVyZSI6IjhhMzI0NzFhOTQ1Njg1MjQzYzZiMmJhYzFkZDMyNjYxYjQwYTNmZGQifQ%3D%3D
+EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4OTk1ODAwLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjIiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjIiXX0sInNpZ25hdHVyZSI6IjJhODEzYjMwYjA2N2IwMmUyYzhhY2I5NjM5NDU1MTM2NmZlZDIwNGIifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11
-https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4ODI2MzI5LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjIiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjIiXX0sInNpZ25hdHVyZSI6IjdiYjU4YWZhMmMzNDViMDY1NzQ1Mjk0ZDYwNTZhMjk1ZWQ4MWRmYjAifQ%3D%3D
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI4OTk1ODI5LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjIiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjIiXX0sInNpZ25hdHVyZSI6Ijc1NWNiZTQ5NzI0Mzc1OGJkY2U4NWFhODIzYTc2NzRkZjZlODY4NTgifQ%3D%3D
 #EXTINF:-1, San Jose TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
 #EXTINF:-1, Telefides
