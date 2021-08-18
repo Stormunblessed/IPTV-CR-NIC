@@ -27,10 +27,8 @@ https://cootv.cootel.com.ni/streams/d/SSLCH15-SD-SDJ/playlist.m3u8
 https://cootv.cootel.com.ni/streams/d/SSLCH23-SD-CIY/playlist.m3u8
 #EXTINF:-1, Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
-#EXTINF:-1 tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 1080p
-https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO59SgpT_NyBVwU1bdJoI6n34)/dm/3/x29e3wg/s/live-4.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 720p
-https://dailymotionlive.akamaized.net/sec(JuL12aNIMqwsgsII8v_cocdZ__DE9RQfNZ6hRhEhdvI)/dm/3/x4z2f6l/s/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5xVv4oy7D6zIZk2mI0sj-q0)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
