@@ -49,8 +49,8 @@ http://190.0.226.17:1935/Telefides/livestream/chunklist_w592017917.m3u8
 http://186.15.50.30:8080/hls/smotv.m3u8
 #EXTINF:-1, Anexion TV
 http://rtmp.info:8081/anexiontv/envivo/chunklist_w506233955.m3u8
-#EXTINF:-1, Trece CR
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVOeagjBY5_MiHRRX3XtdYs)/dm/3/x7vh8g3/d/live-3.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
+https://stream-05.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVJVfv486H-FzPZj2pWpXfg)/dm/3/x7vh8g3/d/live-3.m3u8
 #EXTINF:-1, 36 Limon
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1453814195.m3u8
 #EXTINF:-1, Colosal TV
