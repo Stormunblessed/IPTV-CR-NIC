@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
+http://ipeteve.com/php/SR_REGIO_160821/regio222.php?c=cartoon&f=.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
