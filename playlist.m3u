@@ -28,19 +28,18 @@ https://cootv.cootel.com.ni/streams/d/SSLCH23-SD-CIY/playlist.m3u8
 #EXTINF:-1, Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 720p
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5xVv4oy7D6zIZk2mI0sj-q0)/dm/3/x29e3wg/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5yPXvCmXFtBTlW6Ok6kqYC4)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6
-https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5MzQwMDcxLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjUiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjUiXX0sInNpZ25hdHVyZSI6ImYzMjAyZTdmZmFkNDNlNmM3YzVlOThjNDQwZjNiMDY1ZmU1OWRkMjMifQ%3D%3D
+https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5NzQzNDExLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjciLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjciXX0sInNpZ25hdHVyZSI6IjZjMDhlMGJiM2NjYzVkOTJhNzRkMWNmMGYzMTg4NGZkYTZiN2FhMzAifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5MzQyNjA3LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjUiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjUiXX0sInNpZ25hdHVyZSI6IjFiYjAxMjBmODA2ZDA0ZjZmZDAwNjMzN2EzZjczYjJlZTExMDUwN2MifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2
-https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/chunklist_b1248000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5MzQyNjI5LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjUiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjUiXX0sInNpZ25hdHVyZSI6ImNkODlhYzg1ZWIxYWEyZjkwNjBiMDBkMGQ5MTEzYThkMzQxZTQ1YmQifQ%3D%3D
+https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5NzQzNDk5LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjciLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjciXX0sInNpZ25hdHVyZSI6IjA3NmQ5OWUxZWU2N2RlNGMzZGY0NjdjZTM4ZWYxNmY3ZDg4YmQxYTEifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11
-https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5MzQwMTgwLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjUiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjUiXX0sInNpZ25hdHVyZSI6ImUzNWQ3ZWQyNmMyOTRmZWIwYzI5NDEwNmEyZmQxYjUyYjU3NjQxOWQifQ%3D%3D
+https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5NzQzNDgyLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjciLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjciXX0sInNpZ25hdHVyZSI6IjQyZTFhZGJkZTQ2NWU0OWE2MDQ4OGYzMTg2YWI3NTdjZGRlNWNmYjcifQ%3D%3D
 #EXTINF:-1, San Jose TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
 #EXTINF:-1, Telefides
@@ -48,9 +47,9 @@ http://190.0.226.17:1935/Telefides/livestream/chunklist_w592017917.m3u8
 #EXTINF:-1, SMO TV
 http://186.15.50.30:8080/hls/smotv.m3u8
 #EXTINF:-1, Anexion TV
-http://rtmp.info:8081/anexiontv/envivo/chunklist_w506233955.m3u8
+https://rtmp.info/anexiontv/envivo/chunklist_w2020288956.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
-https://stream-05.ix7.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVJVfv486H-FzPZj2pWpXfg)/dm/3/x7vh8g3/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zbcw8dz3F2A_Cx6zDi8Mb04)/dm/3/x7vh8g3/d/live-3.m3u8
 #EXTINF:-1, 36 Limon
 https://59ef525c24caa.streamlock.net/limontv/limontv/chunklist_w1453814195.m3u8
 #EXTINF:-1, Colosal TV
