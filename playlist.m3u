@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
-http://ipeteve.com/php/SR_REGIO_160821/list.php?c=cartoon&l=smartv&f=.m3u8
+https://77mckejqcowtd1p1.azcdn728.net:8443/hls/1feji.m3u8?s=iFTwIhLARGuWuFlzHw3YJA&e=1629767442
 #EXTINF:-1   tvg-logo="https://servidor10.xyz/images/boomerang.png", Boomerang
 http://ipeteve.com/php/SR_REGIO_160821/list.php?c=boomerang&l=smartv&f=.m3u8
 #EXTINF:-1   tvg-logo="https://servidor10.xyz/images/disney.png", Disney Channel
