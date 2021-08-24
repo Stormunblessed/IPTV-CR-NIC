@@ -70,7 +70,7 @@ http://190.0.226.17:1935/Telefides/livestream/chunklist_w592017917.m3u8
 #EXTINF:-1, SMO TV
 http://186.15.50.30:8080/hls/smotv.m3u8
 #EXTINF:-1, Anexion TV
-https://rtmp.info/anexiontv/envivo/chunklist_w2020288956.m3u8
+https://rtmp.info/anexiontv/envivo/chunklist_w759656506.m3u8
 #EXTINF:-1 tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
 https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12Zbcw8dz3F2A_Cx6zDi8Mb04)/dm/3/x7vh8g3/d/live-3.m3u8
 #EXTINF:-1, 36 Limon
@@ -101,3 +101,5 @@ https://cootv.cootel.com.ni/streams/d/SSLCH22-SD-VJA/playlist.m3u8
 http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_GYQR0tv4lgL47Fxv-xqufAbOJ-l9bOoCg&usqp=CAU", Esperanza TV (1080p)
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b4192000.m3u8
+#EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-01/tvretro-palmares-costa-rica.png?itok=Niiw9ZPB", TV Retro Palmares
+http://tvretropalmares.com:8090/hls/envivo.m3u8
