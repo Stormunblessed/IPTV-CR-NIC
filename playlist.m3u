@@ -3,28 +3,6 @@
 http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
-https://77mckejqcowtd1p1.azcdn728.net:8443/hls/1feji.m3u8?s=iFTwIhLARGuWuFlzHw3YJA&e=1629767442
-#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/boomerang.png", Boomerang
-http://ipeteve.com/php/SR_REGIO_160821/list.php?c=boomerang&l=smartv&f=.m3u8
-#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/disney.png", Disney Channel
-https://77mckejqcowtd1p1.azcdn728.net:8443/hls/96859.m3u8?s=NGeWklOvoUULFIQXDbe3-w&e=1629767691
-#EXTINF:-1   tvg-logo="https://media.tvalacarta.info/canales/256x256/disneyjunior.png", Disney JR
-http://ipeteve.com/php/SR_REGIO_160821/list.php?c=disneyjr&l=smartv&f=.m3u8
-#EXTINF:-1   tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/disneyxd.jpg", Disney XD
-http://ipeteve.com/php/SR_REGIO_160821/list.php?c=disneyxd&l=smartv&f=.m3u8
-#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-kids.jpg", Discovery Kids
-http://ipeteve.com/php/SR_REGIO_160821/list.php?c=dkids&l=smartv&f=.m3u8
-#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/natgeo-kids.jpg", NatGeo Kids
-http://ipeteve.com/php/SR_REGIO_160821/list.php?c=natgeokids&l=smartv&f=.m3u8
-#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/NICK.png", Nick
-http://ipeteve.com/php/SR_REGIO_160821/regio222.php?c=nick&f=.m3u8
-#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/nick-jr.jpg", Nick Jr
-http://ipeteve.com/php/SR_REGIO_160821/list.php?c=nickjr&l=smartv&f=.m3u8
-#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/TeenNick_2019.svg/revision/latest/scale-to-width-down/612?cb=20210530140531", Teen Nick
-http://ipeteve.com/php/SR_REGIO_160821/list.php?c=teennick&l=smartv&f=.m3u8
-#EXTINF:-1   tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f69e8380f9b00a054acc_tooncast.png", Tooncast
-https://vsd92.mycdn.me/hls/1502394386987.m3u8/sig/l_WYXwrlyJk/expires/1629834158233/srcIp/190.113.101.98/clientType/0/srcAg/GECKO/mid/3156482793003/video.m3u8?p
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
 https://cootv.cootel.com.ni/streams/d/SSLCH02-HD-YON/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgWGymmVui_jxthlTHvhmdkh1ZBR_KS3_h_5sk9w=s88-c-k-c0x00ffffff-no-rj", Canal 4
