@@ -1,6 +1,29 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
+#EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
+https://r9uxprta46.azcdn107.net:8443/hls/1feji.m3u8?s=8CvRM55U7IZlOx7jq8vOYw&e=1629878939
+#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/boomerang.png", Boomerang
+https://r9uxprta46.azcdn107.net:8443/hls/hmnf8ejk.m3u8?s=hNMOZoIfq0eoXTbs17J2zw&e=1629879373
+#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/disney.png", Disney Channel
+https://r9uxprta46.azcdn107.net:8443/hls/96859.m3u8?s=ewhLEPflhf8PEf5uP1bPlw&e=1629879390
+#EXTINF:-1   tvg-logo="https://media.tvalacarta.info/canales/256x256/disneyjunior.png", Disney JR
+https://r9uxprta46.azcdn107.net:8443/hls/inkizfn6wve8oc.m3u8?s=9VljBIAmSDcZr1skGIS7Uw&e=1629879411
+#EXTINF:-1   tvg-logo="https://davinci.zappingtv.com/gato/media/256/canales/color/disneyxd.jpg", Disney XD
+https://r9uxprta46.azcdn107.net:8443/hls/12dyavowb6wnxh3.m3u8?s=WyawiuvkRlooFqkJz8T5Fg&e=1629879430
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-kids.jpg", Discovery Kids
+https://r9uxprta46.azcdn107.net:8443/hls/0gtz7.m3u8?s=p1zCAGpt67aOUfVNA0OwFg&e=1629879490
+#EXTINF:-1   tvg-logo="https://servidor10.xyz/images/NICK.png", Nick
+https://r9uxprta46.azcdn107.net:8443/hls/ff7ngwuhc7viegt.m3u8?s=-jY1xW2VtrUuEGdzELvJwQ&e=1629879544
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/nick-jr.jpg", Nick Jr
+#EXTINF:-1   tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/TeenNick_2019.svg/revision/latest/scale-to-width-down/612?cb=20210530140531", Teen Nick
+https://r9uxprta46.azcdn107.net:8443/hls/vgwtkzk.m3u8?s=GMKrTpmw3v2OhDbvQ99F6Q&e=1629879572
+#EXTINF:-1   tvg-logo="https://assets-global.websitefiles.com/605a3cacba514a77ca2e6ab5/6065f69e8380f9b00a054acc_tooncast.png", Tooncast
+https://r9uxprta46.azcdn107.net:8443/hls/9efxxdu.m3u8?s=HtH-p6AtBV3CVBgcnY49EA&e=1629879306
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/history-channel.jpg", History Channel
+https://r9uxprta46.azcdn107.net:8443/hls/17v00przcmhii.m3u8?s=kfzYLXurxfiScxHA81jo4Q&e=1629879067
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/animal-planet.jpg", Animal Planet
+https://r9uxprta46.azcdn107.net:8443/hls/zfwban4sppn0.m3u8?s=UZk_BvtruuK1oomGGtcBqA&e=1629879691
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
