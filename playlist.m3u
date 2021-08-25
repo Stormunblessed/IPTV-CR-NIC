@@ -103,3 +103,31 @@ http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b4192000.m3u8
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-01/tvretro-palmares-costa-rica.png?itok=Niiw9ZPB", TV Retro Palmares
 http://tvretropalmares.com:8090/hls/envivo.m3u8
+#EXTINF:-1, Tvsur canal 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+#EXTINF:-1, VM Latino
+http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8
+#EXTINF:-1, Antena 6
+http://inliveserver.com:1935/14510/14510/chunklist_w1469377991.m3u8
+#EXTINF:-1, Nicoya TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/chunklist_w1674958038.m3u8
+#EXTINF:-1, Mega Fuzion
+http://k4.usastreams.com/megafusion/megafusion/playlist.m3u8
+#EXTINF:-1, ExtremaTv
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1, Telesistema
+http://k4.usastreams.com/ARBtv/ARBtv/playlist.m3u8
+#EXTINF:-1, RadioTV Chirripo
+http://tertuliasconcafe.com:1935/tvdc/envivo_720p/playlist.m3u8
+#EXTINF:-1, TV Tica
+http://tiquiciatv.com:1935/tvtica/web/playlist.m3u8
+#EXTINF:-1, STV
+http://tiquiciatv.com:1935/stv/envivo/playlist.m3u8
+#EXTINF:-1, TV Curre
+http://k6.usastreams.online/Tvcurre/Tvcurre/playlist.m3u8
+#EXTINF:-1, Los santos tv
+http://tiquiciatv.com:1935/lstv/web/playlist.m3u8
+#EXTINF:-1, TVN Canal 14
+http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1, IQ TV
+http://rtmp.info:8081/iqtv/envivo/playlist.m3u8
