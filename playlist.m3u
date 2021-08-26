@@ -64,6 +64,20 @@ https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlis
 https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5OTI2NzYyLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMzQiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMzQiXX0sInNpZ25hdHVyZSI6ImYyOWQ5MTM5NGIzNjU5NjUyYzc2MDY2NzhiZWMyNTY5OTZlNjE2MTMifQ%3D%3D
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI5OTI2OTEzLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMzQiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMzQiXX0sInNpZ25hdHVyZSI6IjM0MDQ1N2E3N2NiYTQ2NWZmMzM2YTRmYzc1ZjIxNzRmYjdkMTRiYmMifQ%3D%3D
+#EXTINF:-1, FUTV
+https://bit.ly/3mAKcFU
+#EXTINF:-1, Tigo Sports
+https://bit.ly/3sM69mz
+#EXTINF:-1, TD+ 2
+https://bit.ly/2WuDq9S
+#EXTINF:-1, Dreiko TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w438991247.m3u8
+#EXTINF:-1, Alajuelita TV
+https://cp.sradiotv.com:1936/8022/8022/chunklist_w363446717.m3u8
+#EXTINF:-1, Nosara TV
+http://rtmp02.portalexpress.es/nosaratv/nosaratv/playlist.m3u8
+#EXTINF:-1, Multizonas TV
+http://209.126.105.158:1935/mztv/envivo_720p/chunklist_w1965154696.m3u8
 #EXTINF:-1, San Jose TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
 #EXTINF:-1, Telefides
