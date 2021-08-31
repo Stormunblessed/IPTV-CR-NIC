@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/epgshare01/share01/master/epg_ripper_CR1.xml.gz"
-#EXTINF:-1 tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
+#EXTINF:-1 tvg-id="Locomotion" tvg-logo="https://logodix.com/logo/2192948.png", Locomotion
 http://51.222.85.85:81/hls/loco/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
+#EXTINF:-1 tvg-id="AZTV" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
 https://bit.ly/3gwL1f9
