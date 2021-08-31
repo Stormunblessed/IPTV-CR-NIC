@@ -75,6 +75,8 @@ https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlis
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwNTExNTYyLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMzAiLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMzAiXX0sInNpZ25hdHVyZSI6IjM5NjFjMGRmZDQzNzBiYWU5NGQ2MTFkMTQ1MDllOTE4MjYwMjU0YWEifQ%3D%3D
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
 https://bit.ly/3mAKcFU
+#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
+https://bit.ly/3jx96ED
 #EXTINF:-1, Tigo Sports
 https://bit.ly/3sM69mz
 #EXTINF:-1, TD+ 2
