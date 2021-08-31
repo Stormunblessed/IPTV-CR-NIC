@@ -63,7 +63,7 @@ http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO54hhnhU-NEKsd6N5lGKb670)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
+#EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/live.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6
 https://cr-repretel-canal6-live.ned.media/repretel/canal6/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwNDM1NzU4LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjciLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjciXX0sInNpZ25hdHVyZSI6IjQ2MzAxNTE5NmJhMzg5NjQ0ODViYzJmOTViOTM1M2EyYjFhZjU4ZDIifQ==
