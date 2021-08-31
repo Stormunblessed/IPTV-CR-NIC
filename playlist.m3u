@@ -73,7 +73,7 @@ https://cr-repretel-canal4-live.ned.media/repretel/canal4/smil:live.smil/playlis
 https://cr-repretel-canal2-live.ned.media/repretel/canal2/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwNDM1OTc5LCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjciLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjciXX0sInNpZ25hdHVyZSI6IjYyZTI5YzdhZjVmMzcyNWJhN2JhNzQ5MGM3NDUzZjFjZGIzZTc5M2IifQ==
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11
 https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwNDM2MDAwLCJzZXNzaW9uIjoiMTc2LjIyNy4yNDEuMjciLCJ3aGl0ZWxpc3QiOlsiMTc2LjIyNy4yNDEuMjciXX0sInNpZ25hdHVyZSI6ImNmY2NkNzdhNGVlMmNhNjAzOTUxMzhkMTJlOGNlNzk0NjMzYTk1MzIifQ==
-#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr", FUTV
+#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
 https://bit.ly/3mAKcFU
 #EXTINF:-1, Tigo Sports
 https://bit.ly/3sM69mz
