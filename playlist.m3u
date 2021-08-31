@@ -165,3 +165,5 @@ http://tiquiciatv.com:1935/lstv/web/playlist.m3u8
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1, IQ TV
 http://rtmp.info:8081/iqtv/envivo/playlist.m3u8
+#EXTINF:-1, Pluto TV
+https://bit.ly/plTVLAT
