@@ -79,13 +79,13 @@ https://bit.ly/3mAKcFU
 https://bit.ly/3jx96ED
 #EXTINF:-1, Tigo Sports
 https://bit.ly/3sM69mz
-#EXTINF:-1, TD+ 2
+#EXTINF:-1, tvg-id="TD+2.HDTV.(TD+2.HD)..cr" TD+ 2
 https://bit.ly/2WuDq9S
-#EXTINF:-1, ESPN
+#EXTINF:-1, tvg-id="ESPN.2.Latin.Central.América.(ESPN2L)..cr" ESPN 2
 https://bit.ly/3ytFKv7
-#EXTINF:-1, FOX SPORTS
+#EXTINF:-1, tvg-id="Fox.Sports.Latin.America.(Cono.Norte).(FSA)..cr" FOX SPORTS
 https://bit.ly/3Bdz8CJ
-#EXTINF:-1, FOX SPORTS 2
+#EXTINF:-1, tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2)..cr" FOX SPORTS 2
 https://bit.ly/3mAgHUQ
 #EXTINF:-1, WIN+ Sports
 https://bit.ly/3zk3nr4
@@ -105,7 +105,7 @@ https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
 http://190.0.226.17:1935/Telefides/livestream/chunklist_w592017917.m3u8
 #EXTINF:-1, SMO TV
 http://186.15.50.30:8080/hls/smotv.m3u8
-#EXTINF:-1, Anexion TV
+#EXTINF:-1, tvg-id="Anexión.TV.(ANEX)..cr" Anexion TV
 https://rtmp.info/anexiontv/envivo/chunklist_w759656506.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
 https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUhGRjfEnvl1UBpLTrIg214)/dm/3/x7vh8g3/d/live-3.m3u8
@@ -141,7 +141,7 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/c
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1, Tvsur canal 9
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-#EXTINF:-1, VM Latino
+#EXTINF:-1, tvg-id="VM.Latino./.El.Canal.de.la.Música.(VMLAT)..cr" VM Latino
 http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1, Antena 6
 http://inliveserver.com:1935/14510/14510/chunklist_w1469377991.m3u8
