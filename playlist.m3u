@@ -141,7 +141,7 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/c
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 #EXTINF:-1, Tvsur canal 9
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
-#EXTINF:-1, tvg-id="VM.Latino./.El.Canal.de.la.Música.(VMLAT)..cr" VM Latino
+#EXTINF:-1, tvg-id="VM.Latino./.El.Canal.de.la.Música.(VMLAT)..cr", VM Latino
 http://k4.usastreams.com/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1, Antena 6
 http://inliveserver.com:1935/14510/14510/chunklist_w1469377991.m3u8
