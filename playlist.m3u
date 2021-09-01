@@ -77,9 +77,9 @@ https://cr-repretel-canal11-live.ned.media/repretel/canal11/smil:live.smil/playl
 https://bit.ly/3mAKcFU
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
 https://bit.ly/3jx96ED
-#EXTINF:-1, Tigo Sports
+#EXTINF:-1 tvg-logo="https://static.epg.best/cr/TigoSports.cr.png" Tigo Sports
 https://bit.ly/3sM69mz
-#EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD)..cr", TD+ 2
+#EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+ 2
 https://bit.ly/2WuDq9S
 #EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.(ESPN2L)..cr", ESPN 2
 https://bit.ly/3ytFKv7
