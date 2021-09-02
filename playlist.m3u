@@ -36,27 +36,37 @@ https://bit.ly/3yfrp5a
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tlc.jpg", TLC
 https://bit.ly/3sNReIy
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
-https://cootv.cootel.com.ni/streams/d/SSLCH02-HD-YON/playlist.m3u8
+https://bit.ly/3zDc93H
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgWGymmVui_jxthlTHvhmdkh1ZBR_KS3_h_5sk9w=s88-c-k-c0x00ffffff-no-rj", Canal 4
-https://cootv.cootel.com.ni/streams/d/SSLCH04-SD-LHQ/playlist.m3u8
+https://bit.ly/3tc1KJF
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Cana6.png", Canal 6
-https://cootv.cootel.com.ni/streams/d/SSLCH06-HD-RNJ/playlist.m3u8
+https://bit.ly/3BDxivd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png", Canal 8
-https://cootv.cootel.com.ni:443/streams/d/SSLCH08-SD-TDF/playlist.m3u8
+https://bit.ly/3mVKQ14
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal9.png", Canal 9
-https://cootv.cootel.com.ni/streams/d/SSLCH09-HD-CVS/playlist.m3u8
+https://bit.ly/2WNhnLN
 #EXTINF:-1 tvg-logo="https://www.canal10.com.ni/wp-content/themes/albavision-theme/img/logo.png", Canal 10
-https://cootv.cootel.com.ni/streams/d/SSLCH10-SD-ZUK/playlist.m3u8
+https://bit.ly/3kKiHHw
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal%2011.png", Canal 11
-https://cootv.cootel.com.ni/streams/d/SSLCH11-SD-GZN/playlist.m3u8
+https://bit.ly/3n0qSlP
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal%2012.png", Canal 12
-https://cootv.cootel.com.ni/streams/d/SSLCH12-SD-ILL/playlist.m3u8
+https://bit.ly/3mTVvco
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png", Canal 13
-https://cootv.cootel.com.ni/streams/d/SSLCH13-SD-PYU/playlist.m3u8
+https://bit.ly/3zGquw5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal%2015.png", Canal 15
-https://cootv.cootel.com.ni/streams/d/SSLCH15-SD-SDJ/playlist.m3u8
+https://bit.ly/3DD2HiZ
+#EXTINF:-1, Mega Box
+https://bit.ly/2V8ERdz
+#EXTINF:-1, Enlace NIC
+https://bit.ly/38zfKDU
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal23.png", Canal 23
-https://cootv.cootel.com.ni/streams/d/SSLCH23-SD-CIY/playlist.m3u8
+https://bit.ly/3mVLlIu
+#EXTINF:-1, JBN Canal 39
+https://inliveserver.com:1936/17510/17510/chunklist_w1857968766.m3u8
+#EXTINF:-1, TV ONE nic
+https://bit.ly/3gURYH1
+#EXTINF:-1, Radio TV Luz y Verdad
+https://bit.ly/2WNtWX2
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 720p
@@ -117,10 +127,6 @@ https://5d16127744872.streamlock.net/COLOSAL/COLOSAL/chunklist_w1023493580.m3u8
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/chunklist_w685058481.m3u8
 #EXTINF:-1, Telesur
 http://k3.usastreams.com/telesur/telesur/chunklist_w929248362.m3u8
-#EXTINF:-1, JBN Canal 39
-https://inliveserver.com:1936/17510/17510/chunklist_w1857968766.m3u8
-#EXTINF:-1, TV One
-https://inliveserver.com:1936/17512/17512/chunklist_w341718438.m3u8
 #EXTINF:-1, EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
 #EXTINF:-1, Supreme Master TV
@@ -131,8 +137,6 @@ http://k4.usastreams.com/ARBtv/teleplus/chunklist_w969400546.m3u8
 http://stmv1.srvif.com/sanvito/sanvito/chunklist_w547020798.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2020/05/tvsur-logo.png", TVsur
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/chunklist_w1867933475.m3u8
-#EXTINF:-1, La rock 22
-https://cootv.cootel.com.ni/streams/d/SSLCH22-SD-VJA/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_GYQR0tv4lgL47Fxv-xqufAbOJ-l9bOoCg&usqp=CAU", Esperanza TV
 http://tv.esperanzatvcr.org:1935/WEB/WEB/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_GYQR0tv4lgL47Fxv-xqufAbOJ-l9bOoCg&usqp=CAU", Esperanza TV (1080p)
