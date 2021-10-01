@@ -4,37 +4,35 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="AZTV" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
-https://bit.ly/3gwL1f9
+http://45.235.37.254:8600/play/a0cj
 #EXTINF:-1   tvg-logo="https://servidor10.xyz/images/boomerang.png", Boomerang
-https://bit.ly/3mCnbCo
+http://45.235.37.254:8600/play/a06c
 #EXTINF:-1   tvg-logo="https://servidor10.xyz/images/disney.png", Disney Channel
-https://bit.ly/3gEdAqS
+http://45.235.37.254:8600/play/a0az
 #EXTINF:-1   tvg-logo="https://media.tvalacarta.info/canales/256x256/disneyjunior.png", Disney JR
-https://bit.ly/3myiutq
+http://45.235.37.254:8600/play/a08v
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/disney-xd.jpg", Disney XD
-https://bit.ly/3zhnBlc
+http://45.235.37.254:8600/play/a0b0
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-kids.jpg", Discovery Kids
-https://bit.ly/3ynKWjX
+http://45.235.37.254:8600/play/a0a8
 #EXTINF:-1   tvg-logo="https://servidor10.xyz/images/NICK.png", Nick
-https://bit.ly/38jdyQW
+http://45.235.37.254:8600/play/a09o
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/nick-jr.jpg", Nick Jr
-https://bit.ly/2WsOXGm
+http://45.235.37.254:8600/play/a08j
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/natgeo-kids.jpg", Natgeo Kids
-https://bit.ly/38dIhih
+http://45.235.37.254:8600/play/a0aa
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tooncast.jpg", Tooncast
-https://bit.ly/3jkfKxJ
+http://45.235.37.254:8600/play/a069
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/history-channel.jpg", History Channel
-https://bit.ly/3zlnFQR
-#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/history-channel.jpg", History Channel (2)
-https://bit.ly/3yliDT6
+http://45.235.37.254:8600/play/a08w
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/animal-planet.jpg", Animal Planet
-https://bit.ly/3zlnzIZ
+http://45.235.37.254:8600/play/a0ab
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-channel.jpg", Discovery Channel
-https://bit.ly/3DldZbB
+http://45.235.37.254:8600/play/a0ac
 #EXTINF:-1   tvg-logo="http://www.cableaudiovision.com.ar/grilla-web/canales/discoveryid.png", ID
-https://bit.ly/3yfrp5a
+http://45.235.37.254:8600/play/a08y
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tlc.jpg", TLC
-https://bit.ly/3sNReIy
+http://45.235.37.254:8600/play/a0bt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
 https://bit.ly/3zDc93H
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgWGymmVui_jxthlTHvhmdkh1ZBR_KS3_h_5sk9w=s88-c-k-c0x00ffffff-no-rj", Canal 4
