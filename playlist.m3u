@@ -4,7 +4,7 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-id="AZTV" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/aztv.png", Anime Zone TV
 http://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
-http://45.235.37.254:8600/play/a0cj
+https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1   tvg-logo="https://servidor10.xyz/images/boomerang.png", Boomerang
 http://45.235.37.254:8600/play/a06c
 #EXTINF:-1   tvg-logo="https://servidor10.xyz/images/disney.png", Disney Channel
