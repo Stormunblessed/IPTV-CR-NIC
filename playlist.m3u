@@ -83,26 +83,26 @@ https://bit.ly/3cIqcLp
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQCNk8zmPtmToDP0WBZpgiA)/dm/3/x7vh8g3/d/live-3.m3u8
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
-#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
-https://bit.ly/3FG4NPo
-#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
-https://bit.ly/3jx96ED
-#EXTINF:-1 tvg-logo="https://static.epg.best/cr/TigoSports.cr.png", Tigo Sports
-https://bit.ly/3sM69mz
-#EXTINF:-1 tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+
-https://bit.ly/3odiMa2
-#EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+ 2
-https://bit.ly/2WuDq9S
-#EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.(ESPN2L)..cr", ESPN 2
-https://bit.ly/3ytFKv7
-#EXTINF:-1 tvg-id="Fox.Sports.Latin.America.(Cono.Norte).(FSA)..cr", FOX SPORTS
-https://bit.ly/3Bdz8CJ
-#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2)..cr", FOX SPORTS 2
-https://bit.ly/3mAgHUQ
-#EXTINF:-1, WIN+ Sports
-https://bit.ly/3zk3nr4
-#EXTINF:-1, La Liga
-https://bit.ly/3nqRdcJ
+//#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
+//https://bit.ly/3FG4NPo
+//#EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
+//https://bit.ly/3jx96ED
+//#EXTINF:-1 tvg-logo="https://static.epg.best/cr/TigoSports.cr.png", Tigo Sports
+//https://bit.ly/3sM69mz
+//#EXTINF:-1 tvg-id="Programación.Deportes.TD+.HDTV.(TD+.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+
+//https://bit.ly/3odiMa2
+//#EXTINF:-1 tvg-id="TD+2.HDTV.(TD+2.HD)..cr" tvg-logo="https://static.epg.best/cr/TDPlus.cr.png", TD+ 2
+//https://bit.ly/2WuDq9S
+//#EXTINF:-1 tvg-id="ESPN.2.Latin.Central.América.(ESPN2L)..cr", ESPN 2
+//https://bit.ly/3ytFKv7
+//#EXTINF:-1 tvg-id="Fox.Sports.Latin.America.(Cono.Norte).(FSA)..cr", FOX SPORTS
+//https://bit.ly/3Bdz8CJ
+//#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2)..cr", FOX SPORTS 2
+//https://bit.ly/3mAgHUQ
+//#EXTINF:-1, WIN+ Sports
+//https://bit.ly/3zk3nr4
+//#EXTINF:-1, La Liga
+//https://bit.ly/3nqRdcJ
 #EXTINF:-1, Dreiko TV
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
 #EXTINF:-1, CRTV Y Radio
