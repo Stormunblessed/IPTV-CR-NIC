@@ -23,8 +23,8 @@ http://45.235.37.254:8600/play/a08j
 http://45.235.37.254:8600/play/a0aa
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tooncast.jpg", Tooncast
 http://45.235.37.254:8600/play/a069
-#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/history-channel.jpg", History Channel
-http://45.235.37.254:8600/play/a08w
+#EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/history-channel.jpg", History Channel (test)
+https://bit.ly/3xq9bze
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/animal-planet.jpg", Animal Planet
 http://45.235.37.254:8600/play/a0ab
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/discovery-channel.jpg", Discovery Channel
