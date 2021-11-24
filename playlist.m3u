@@ -66,7 +66,7 @@ https://bit.ly/3pHnRrB
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 720p
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_SgHhuqXpf694F9F0TiwYA)/dm/3/x29e3wg/s/live-3.m3u8
+https://www.dailymotion.com/cdn/live/video/x29e3wg.m3u8?sec=RRaQWohHhS0MzAc4pW5WUPYou_qQj_O_Kkt9wOfqQPgyo0hKJ4PNcAKUad6N8JmZA6qGAFLAY-0MsEKM2u6KRw&dmTs=473396&dmV1st=F52EA096BB256677A8A3D5E15BB68AC3
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
