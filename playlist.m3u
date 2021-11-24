@@ -66,7 +66,7 @@ https://bit.ly/3pHnRrB
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 720p
-https://www.dailymotion.com/cdn/live/video/x29e3wg.m3u8?sec=RRaQWohHhS0MzAc4pW5WUPYou_qQj_O_Kkt9wOfqQPgyo0hKJ4PNcAKUad6N8JmZA6qGAFLAY-0MsEKM2u6KRw&dmTs=473396&dmV1st=F52EA096BB256677A8A3D5E15BB68AC3
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_5t3mnS6i8G0lX2i0Me5TA)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
@@ -80,7 +80,7 @@ https://bit.ly/3CTcCj6
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
 https://bit.ly/3cIqcLp
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
-https://www.dailymotion.com/cdn/live/video/x7vh8g3.m3u8?sec=CuMr-u1XeSxJYScbAhGkYn1jLOIjyZ0mAWaUgTRQ2BUEvP2Dcu9tjCSg_AM77pgRfxx6o5mPL0S95mE55nv_qg&dmTs=516478&dmV1st=CFC88A9BD684BF18DFCF078C1126DF0A
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQCNk8zmPtmToDP0WBZpgiA)/dm/3/x7vh8g3/d/live-3.m3u8
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
