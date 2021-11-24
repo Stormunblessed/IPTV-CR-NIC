@@ -103,12 +103,14 @@ https://bit.ly/3zk3nr4
 https://bit.ly/3nqRdcJ
 #EXTINF:-1, Dreiko TV
 https://stmv3.voxtvhd.com.br/reikotv/reikotv/playlist.m3u8
+#EXTINF:-1, CRTV Y Radio
+https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
 #EXTINF:-1, Alajuelita TV
-https://cp.sradiotv.com:1936/8022/8022/chunklist_w363446717.m3u8
+https://cp.sradiotv.com:1936/8076/8076/chunklist_w779116498.m3u8
 #EXTINF:-1, Nosara TV
 http://rtmp02.portalexpress.es/nosaratv/nosaratv/playlist.m3u8
 #EXTINF:-1, Multizonas TV
-http://209.126.105.158:1935/mztv/envivo_720p/chunklist_w1965154696.m3u8
+https://stmv1.srvif.com/multizonastv/multizonastv/playlist.m3u8
 #EXTINF:-1, San Jose TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w2038804054.m3u8
 #EXTINF:-1, Telefides
