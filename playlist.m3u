@@ -81,6 +81,8 @@ https://bit.ly/3CTcCj6
 https://bit.ly/3cIqcLp
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
 https://www.dailymotion.com/cdn/live/video/x7vh8g3.m3u8?sec=CuMr-u1XeSxJYScbAhGkYn1jLOIjyZ0mAWaUgTRQ2BUEvP2Dcu9tjCSg_AM77pgRfxx6o5mPL0S95mE55nv_qg&dmTs=516478&dmV1st=CFC88A9BD684BF18DFCF078C1126DF0A
+#EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
+https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
 https://bit.ly/3unyL6j
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV (Opción 2)
