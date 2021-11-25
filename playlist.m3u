@@ -8,7 +8,7 @@ https://bit.ly/30OO5Pb
 #EXTINF:-1 tvg-logo="https://servidor10.xyz/images/cartoon.png", Cartoon Network
 https://slvcs87g3x.singularcdn.net.br/live/ctn_latam/playlist-1080p.m3u8
 #EXTINF:-1   tvg-logo="https://servidor10.xyz/images/boomerang.png", Boomerang
-http://45.235.37.254:8600/play/a06c
+https://edge-live13-sl.cvattv.com.ar/live/live/Boomerang/SA_Live_dash_enc_2A/Boomerang.mpd
 #EXTINF:-1   tvg-logo="https://servidor10.xyz/images/disney.png", Disney Channel
 http://45.235.37.254:8600/play/a0az
 #EXTINF:-1   tvg-logo="https://media.tvalacarta.info/canales/256x256/disneyjunior.png", Disney JR
