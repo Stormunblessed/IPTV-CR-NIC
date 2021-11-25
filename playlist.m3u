@@ -71,6 +71,8 @@ http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_5t3mnS6i8G0lX2i0Me5TA)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
+#EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA)..cr" tvg-logo="https://static.epg.best/cr/CanalExtra42.cr.png", ExtraTV 42
+https://dailymotionlive.akamaized.net/sec(9adq8njh6Ix1Bfv2jmbm41oiP2iXONDn7vcU5wEXKjY)/dm/3/x83sd3v/s/live-2.m3u8
 #EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
