@@ -36,39 +36,39 @@ http://45.235.37.254:8600/play/a08y
 #EXTINF:-1   tvg-logo="https://eonteambrasil.com.br/SharedAssets/logo-canais/tlc.jpg", TLC
 http://45.235.37.254:8600/play/a0bt
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Canal2_ni.jpg", Canal 2
-https://bit.ly/2Zqjzul
+https://bit.ly/31YIhD3
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTgWGymmVui_jxthlTHvhmdkh1ZBR_KS3_h_5sk9w=s88-c-k-c0x00ffffff-no-rj", Canal 4
-https://bit.ly/2ZzZMsj
+https://bit.ly/3IMBw7U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Cana6.png", Canal 6
-https://bit.ly/3Ciufch
+https://bit.ly/3pYAy01
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Tn8_logotipo_2021.png", Canal 8
-https://bit.ly/3jHItMJ
+https://bit.ly/3yo4dmY
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal9.png", Canal 9
-https://bit.ly/2ZuHU1K
+https://bit.ly/3EWJk4J
 #EXTINF:-1 tvg-logo="https://www.canal10.com.ni/wp-content/themes/albavision-theme/img/logo.png", Canal 10
-https://bit.ly/3BhHEAm
+https://bit.ly/3INy2SB
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal%2011.png", Canal 11
-https://bit.ly/3mp4emt
+https://bit.ly/3DTgd0P
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal%2012.png", Canal 12
-https://bit.ly/3BjCcNk
+https://bit.ly/3GIzOTc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Logo_Viva_Nicaragua_Canal_13.png", Canal 13
-https://bit.ly/3mhtLxN
+https://bit.ly/33gkAX9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/Canal%2015.png", Canal 15
-en espera
+https://bit.ly/3pV6iD5
 #EXTINF:-1, Mega Box
 en espera
 #EXTINF:-1, Enlace NIC
-https://bit.ly/3vOdyTF
+https://bit.ly/3ysfP8G
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/canal23.png", Canal 23
-https://bit.ly/2Zo54Xx
+https://bit.ly/3s4GWW8
 #EXTINF:-1, JBN Canal 39
 https://inliveserver.com:1936/17510/17510/chunklist_w1857968766.m3u8
 #EXTINF:-1, TV ONE nic
-https://bit.ly/3pHnRrB
+https://bit.ly/3s0hReU
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 720p
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_5t3mnS6i8G0lX2i0Me5TA)/dm/3/x29e3wg/s/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO55xMS_p4bWmXp9xZ__Ym-HU)/dm/3/x29e3wg/s/live-3.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA)..cr" tvg-logo="https://static.epg.best/cr/CanalExtra42.cr.png", ExtraTV 42
@@ -76,15 +76,15 @@ https://dailymotionlive.akamaized.net/sec(9adq8njh6Ix1Bfv2jmbm41oiP2iXONDn7vcU5w
 #EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
-https://bit.ly/3HRG3FC
+https://bit.ly/322JHwd
 #EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4 (test)
-https://bit.ly/3oTYAIL
+https://bit.ly/3yodewd
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2 (test)
-https://bit.ly/3CTcCj6
+https://bit.ly/3dMmtgv
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
-https://bit.ly/3cIqcLp
+https://bit.ly/3ypO0xF
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQCNk8zmPtmToDP0WBZpgiA)/dm/3/x7vh8g3/d/live-3.m3u8
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUOmUkocrikQravCeEAw_kk)/dm/3/x7vh8g3/d/live-3.m3u8
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
