@@ -67,8 +67,8 @@ https://inliveserver.com:1936/17510/17510/chunklist_w1857968766.m3u8
 https://bit.ly/3s0hReU
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
-#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica 720p
-https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO55xMS_p4bWmXp9xZ__Ym-HU)/dm/3/x29e3wg/s/live-3.m3u8
+#EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO59XP9VHussQjiBn3OTVJxCc)/dm/3/x29e3wg/s/live-1.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA)..cr" tvg-logo="https://static.epg.best/cr/CanalExtra42.cr.png", ExtraTV 42
@@ -84,7 +84,7 @@ https://bit.ly/3dMmtgv
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
 https://bit.ly/3ES2vg5
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZUOmUkocrikQravCeEAw_kk)/dm/3/x7vh8g3/d/live-3.m3u8
+https://stream-04.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZewtXh9k8qpfDizJG05Tuf4)/dm/3/x7vh8g3/d/live-3.m3u8
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
