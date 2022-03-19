@@ -176,8 +176,8 @@
     },
     "PelisplusHDProvider": {
         "name": "PelisplusHD",
-        "url": "https://pelisplushd.net",
-        "status": 3
+        "url": "https://pelisplushd.to",
+        "status": 1
     },
     "PelisplusProvider": {
         "name": "Pelisplus",
