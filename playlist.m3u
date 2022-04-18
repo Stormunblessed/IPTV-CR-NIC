@@ -68,11 +68,11 @@ https://bit.ly/3s0hReU
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5-DOyQUFFpwo3AEg6w7P6b8)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5xQKH3Ill7klPpSP_WFzalqY-n5z3atizSCny2lz6TQl)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA)..cr" tvg-logo="https://static.epg.best/cr/CanalExtra42.cr.png", ExtraTV 42
-https://stream-02.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4yLi8tURN8SwetFXBauL6g0)/dm/3/x83sd3v/s/live-1.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4-6syK8dD7EMCWBgmFH_0c5xnezNoXocF27r6iVvotEj)/dm/3/x83sd3v/s/live-2.m3u8#cell=lnyc
 #EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
@@ -84,7 +84,7 @@ https://bit.ly/3dMmtgv
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
 https://bit.ly/3ES2vg5
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZW6O-Aw0EIdQKYRyKy_ynS0)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZXF1cYUijqal7coHqxUmEW5lcR882FY8UTLjGmgQp9wr)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
