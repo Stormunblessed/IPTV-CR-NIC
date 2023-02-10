@@ -68,7 +68,7 @@ https://bit.ly/3s0hReU
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5-7ZeGSR5rmzBxd1KLd-DbNKr7fY4pe5MCHTSFTzQl2t)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc
+https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5zpKhLdbmBYpTskhJ38GNCeFrS17C--wEWpkawzhX0xD)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA)..cr" tvg-logo="https://static.epg.best/cr/CanalExtra42.cr.png", ExtraTV 42
@@ -76,15 +76,15 @@ https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm46yL5MO8kzj-B4rWKg
 #EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal6.m3u8
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4 (test)
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2 (test)
-https://d3ou4v1ntyo64z.cloudfront.net/repretel/canal2/smil:live.smil/playlist.m3u8
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal2.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11.m3u8
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQ1CPg3HZ_ulZ_YEieZJcUA5LPW3jg9gBuoa8-pQRYrT)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
+https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVOKjs9uznq4S-1u22t7VXMffeLMnbrB7GmI2dK_v3ri)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
 https://v4.tustreaming.cl/enlacebpbtv/index.m3u8
 #EXTINF:-1 tvg-id="FUTV.(Costa.Rica).(FUTV)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/futv.png", FUTV
@@ -108,11 +108,13 @@ https://bit.ly/36EcnOh
 //#EXTINF:-1, La Liga
 //https://bit.ly/3nqRdcJ
 #EXTINF:-1, Dreiko TV
-https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
+https://cloudvideo.servers10.com:8081/8242/tracks-v1a1/rewind-3600.m3u8
 #EXTINF:-1, CRTV Y Radio
 https://cp.sradiotv.com:1936/8034/8034/playlist.m3u8
 #EXTINF:-1, Alajuelita TV
 https://cp.sradiotv.com:1936/8076/8076/chunklist_w779116498.m3u8
+#EXTINF:-1, RBM Deportes
+https://stmv.streamingvip.click/television/television/playlist.m3u8
 #EXTINF:-1, Nosara TV
 http://rtmp02.portalexpress.es/nosaratv/nosaratv/playlist.m3u8
 #EXTINF:-1, Multizonas TV
