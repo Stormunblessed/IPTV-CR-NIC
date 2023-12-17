@@ -68,7 +68,7 @@ https://bit.ly/3s0hReU
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
-https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5zpKhLdbmBYpTskhJ38GNCeFrS17C--wEWpkawzhX0xD)/dm/3/x29e3wg/d/live-2.m3u8#cell=lnyc
+https://13697-3.b.cdn12.com/hls/e7d7818084.ulive/dc318b5fc2466059034172e233a861bc/base/index.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Extra.TV.42.(Costa.Rica).(EXTRA)..cr" tvg-logo="https://static.epg.best/cr/CanalExtra42.cr.png", ExtraTV 42
