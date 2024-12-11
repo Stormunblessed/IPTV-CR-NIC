@@ -67,6 +67,7 @@ https://inliveserver.com:1936/17510/17510/chunklist_w1857968766.m3u8
 https://bit.ly/3s0hReU
 #EXTINF:-1 tvg-logo="https://costaricatelevision.com/sites/default/files/styles/tv_list/public/2021-03/ticavision-costa-rica_0.png?itok=0jefEcaM", Ticavision
 http://k3.usastreams.com/HBTV/HBTV/chunklist_w447626026.m3u8
+#EXTVLCOPT:http-referrer=https://bradmax.com/
 #EXTINF:-1 tvg-id="Teletica.Canal.7.HDTV.(CR7HD)..cr" tvg-logo="https://static.epg.best/cr/Canal7.cr.png", Teletica
 https://13697-3.b.cdn12.com/hls/e7d7818084.ulive/dc318b5fc2466059034172e233a861bc/base/index.m3u8
 #EXTINF:-1 tvg-id="Multimedios.Costa.Rica.-.Canal.8.(MMTV)..cr" tvg-logo="https://static.epg.best/cr/Multimedios.cr.png", Multimedios
@@ -76,13 +77,13 @@ https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm46yL5MO8kzj-B4rWKg
 #EXTINF:-1 #EXTINF:-1 tvg-id="Universidad.de.Costa.Rica./.Canal.15.(UCR)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/quinceucr.png", Quince UCR
 http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
 #EXTINF:-1 tvg-id="Repretel.6.(CR6)..cr" tvg-logo="https://i.ibb.co/FzPKgYq/repretel-6-logo-120.png", Repretel 6 (test)
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+https://d1vr8yxz55pucr.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.4.(CR4)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/120px-Repretel_4_logo.png", Repretel 4 (test)
-https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
+https://d35xpyc30huab3.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-6WXhW9NbOs8/AAAAAAAAAAI/AAAAAAAAAAA/OPGT0u1Z6kQ/s100-c-k-no-mo-rj-c0xffffff/photo.jpg", Repretel 2 (test)
-https://alba-cr-repretel-c2.stream.mediatiquestream.com/index.m3u8
+https://d30230c1j3h08x.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="Repretel:.Canal.11.(CR11)..cr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Repretel_11_logo.png/120px-Repretel_11_logo.png", Repretel 11 (test)
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+https://d2n1dt6uwqq83r.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-id="Sinart.Canal.13.HDTV.(CR13HD)..cr" tvg-logo="https://static.epg.best/cr/Canal13.cr.png", Canal 13
 https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZVOKjs9uznq4S-1u22t7VXMffeLMnbrB7GmI2dK_v3ri)/dm/3/x7vh8g3/d/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="TBN.Enlace.Latin.America.(ENLACE)..cr" tvg-logo="https://raw.githubusercontent.com/Stormunblessed/IPTV-CR-NIC/main/logos/enlace.png", Enlace CR
